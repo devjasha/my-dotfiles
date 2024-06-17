@@ -12,6 +12,48 @@ return {
 }
 -- return {
 -- 	{
+-- 		"rose-pine/neovim",
+-- 		name = "rose-pine",
+-- 		priority = 1000,
+-- 		lazy = true,
+-- 		opts = function()
+-- 			return {
+-- 				variant = "moon",
+-- 				transparent = true,
+-- 			}
+-- 		end,
+-- 	},
+-- }
+-- return {
+-- 	{
+--
+-- 		"nobbmaestro/nvim-andromeda",
+-- 		name = "andromeda",
+-- 		priority = 1000,
+-- 		lazy = true,
+-- 		opts = function()
+-- 			return {
+-- 				requires = { "tjdevries/colorbuddy.nvim", branch = "dev" },
+-- 			}
+-- 		end,
+-- 	},
+-- }
+
+-- return {
+-- 	{
+-- 		"olivercederborg/poimandres.nvim",
+-- 		name = "poimandres",
+-- 		priority = 1000,
+-- 		lazy = true,
+-- 		opts = function()
+-- 			return {
+-- 				transparent = true,
+-- 			}
+-- 		end,
+-- 	},
+-- }
+-- return {
+-- 	{
 -- 		"catppuccin/nvim",
 -- 		name = "catppuccin",
 -- 		lazy = true,
